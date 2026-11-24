@@ -10,7 +10,7 @@ navbar:
   - text: cos
     href: cos.html
   - text: cv
-    href: cv_template.html
+    href: cv_template.rmd
 
 output:
   workflowr::wflow_html:
